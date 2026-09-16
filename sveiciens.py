@@ -1,1 +1,1 @@
-print("Viss izdosies!")
+print("Nomaina sveiciena tekstu!")
