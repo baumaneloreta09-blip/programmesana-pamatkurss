@@ -1,1 +1,1 @@
-print("Tresais sveiciens!")
+print("Nomaina sveiciena tekstu 4x!")
