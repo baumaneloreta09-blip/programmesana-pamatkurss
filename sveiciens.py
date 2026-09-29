@@ -1,1 +1,1 @@
-print("sodien ir otrdiena.")
+print("Nomaina sveiciena tekstu.")
