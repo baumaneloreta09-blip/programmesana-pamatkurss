@@ -1,1 +1,1 @@
-print("Nomaina sveiciena tekstu 4x!")
+print("Mans pirmais commit!")
