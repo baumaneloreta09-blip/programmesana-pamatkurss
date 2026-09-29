@@ -1,1 +1,1 @@
-print("Mans pirmais commit!")
+print("sodien ir otrdiena.")
