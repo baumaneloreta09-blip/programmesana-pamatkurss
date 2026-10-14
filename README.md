@@ -8,3 +8,7 @@ Autors: **Loreta Baumane**
 
 ## Licence 
 Šis projekts izmanto MIT licenci.
+
+str = "a" - "5"
+int = "b" - 5
+float = "c" - 5.5

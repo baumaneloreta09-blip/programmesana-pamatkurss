@@ -10,3 +10,4 @@ python sveiciens.py
 str = "a" - "5"
 int = "b" - 5
 float = "c" - 5.5
+
