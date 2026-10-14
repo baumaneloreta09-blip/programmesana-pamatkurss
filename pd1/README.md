@@ -6,3 +6,7 @@ python sveiciens.py
 - Monitors acu līmenī
 - Regulāri atpūtinu acis
 - Sēžu ar taisnu muguru
+
+str = "a" - "5"
+int = "b" - 5
+float = "c" - 5.5
